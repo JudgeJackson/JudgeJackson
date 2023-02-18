@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JudgeJackson
-- 👀 I’m interested in engineering and coding.
-- 🌱 I’m currently learning Mechanical engineering, material science, and CAD simulations
-- 💞️ I’m looking to collaborate on anything.
+- Hi, I’m @JudgeJackson
+- I’m interested in mechanical and software engineering
+- I’m currently learning mechanical engineering, material science, CAD, and a variety of coding languages.
+- This repo is where I've started to store my code from recent personal projects.
